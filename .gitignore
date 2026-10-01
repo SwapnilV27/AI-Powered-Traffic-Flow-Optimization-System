@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+data/videos/*
+data/frames/*
+!data/videos/.gitkeep
+models/*.keras
+yolov8n.pt
+outputs/*.csv
+outputs/*.mp4
